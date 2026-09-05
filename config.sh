@@ -15,7 +15,7 @@ TIMEZONE="Asia/Jakarta"
 # 2. AnyKernel3 Configuration
 # ==========================================
 ANYKERNEL_REPO="https://github.com/Arkael-Dev/AnyKernel3"
-ANYKERNEL_BRANCH="gki"
+ANYKERNEL_BRANCH="master"
 
 # ==========================================
 # 3. Toolchain Configuration
