@@ -4,17 +4,17 @@
 # ==========================================
 # 1. Project Configuration
 # ==========================================
-KERNEL_NAME="FleurX-GKI"
+KERNEL_NAME="arqzey"
 KERNEL_SOURCE="https://github.com/zylhdrXP/android_kernel_common-5.10"
 KERNEL_BRANCH="android12-5.10"
-KBUILD_USER="heydr"
-KBUILD_HOST="zylhdrxp"
+KBUILD_USER="arqzey"
+KBUILD_HOST="arqzey"
 TIMEZONE="Asia/Jakarta"
 
 # ==========================================
 # 2. AnyKernel3 Configuration
 # ==========================================
-ANYKERNEL_REPO="https://github.com/zylhdrXP/AnyKernel3"
+ANYKERNEL_REPO="https://github.com/Arkael-Dev/AnyKernel3"
 ANYKERNEL_BRANCH="gki"
 
 # ==========================================
@@ -25,7 +25,7 @@ CLANG_URL="https://github.com/Neutron-Toolchains/clang-build-catalogue/releases/
 # ==========================================
 # 4. GitHub Release Configuration
 # ==========================================
-RELEASE_REPO="zylhdrXP/FleurX-GKI-Release"
+RELEASE_REPO="Arkael-Dev/Arkael-GKI-Release"
 
 # ==========================================
 # 5. Default Build Options
