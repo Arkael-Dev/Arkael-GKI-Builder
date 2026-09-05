@@ -25,7 +25,7 @@ CLANG_URL="https://github.com/Neutron-Toolchains/clang-build-catalogue/releases/
 # ==========================================
 # 4. GitHub Release Configuration
 # ==========================================
-RELEASE_REPO="Arkael-Dev/Arkael-GKI-Builder"
+RELEASE_REPO="Arkael-Dev/Arkael-GKI-Builder/releases"
 
 # ==========================================
 # 5. Default Build Options
