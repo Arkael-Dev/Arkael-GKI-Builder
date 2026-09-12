@@ -5,8 +5,8 @@
 # 1. Project Configuration
 # ==========================================
 KERNEL_NAME="arqzey"
-KERNEL_SOURCE="https://github.com/zylhdrXP/android_kernel_common-5.10"
-KERNEL_BRANCH="android12-5.10"
+KERNEL_SOURCE="https://github.com/ramabondanp/android_kernel_common-5.10.git"
+KERNEL_BRANCH="android12-5.10-staging"
 KBUILD_USER="arqzey"
 KBUILD_HOST="arqzey"
 TIMEZONE="Asia/Jakarta"
